@@ -2,10 +2,8 @@
 
 An intelligent fraud detection prototype built using Machine Learning and Python to identify suspicious credit-card transactions, assess risk levels and explain model predictions.
 
-<p align="center">
-  [![GitHub Repository](https://img.shields.io/badge/GitHub Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usebonded/ARGUS-Fraud-Detection)
-  [![Live Demo](https://img.shields.io/badge/Live Demo-150458?style=for-the-badge&logo=&logoColor=white)](https://argus-fraud-detection.streamlit.app/)
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usebonded)
+[![Portfolio](https://img.shields.io/badge/Portfolio-150458?style=for-the-badge&logo=&logoColor=white)](https://usebonded.gi
 
 ## Overview
 
