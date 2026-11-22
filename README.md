@@ -3,7 +3,7 @@
 An intelligent fraud detection prototype built using Machine Learning and Python to identify suspicious credit-card transactions, assess risk levels and explain model predictions.
 
 <p align="center">
-  <a href="https://argus-fraud-detection-uvfpubzfvyqkigbub3p9ch.streamlit.app/">Live Demo</a> •
+  <a href="https://argus-fraud-detection.streamlit.app/">Live Demo</a> •
   <a href="https://github.com/Usebonded/ARGUS-Fraud-Detection">GitHub Repository</a>
 </p>
 
@@ -79,15 +79,6 @@ streamlit run app.py
 - **Programme:** B.Tech – Artificial Intelligence & Machine Learning
 - **Academic Year:** 2026–27
 - **Project Guide:** Nikhil Patankar (CSIT)
-
-## Contributors
-
-| Team Member | PRN |
-|---|---|
-| [Member 1] | [PRN] |
-| [Member 2] | [PRN] |
-| [Member 3] | [PRN] |
-| [Member 4] | [PRN] |
 
 ## Future Scope
 
